@@ -46,7 +46,6 @@
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smavo&layout=compact" alt="smavo"/>
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=smavo&show_icons=true&theme=radical" alt="smavo"/> -->
 <img src="https://github-readme-stats.vercel.app/api?username=smavo&show_icons=true" alt="smavo"/>
 </p>
 
@@ -59,5 +58,4 @@
 
 <a href="https://instagram.com/smavodev" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="smavo" height="30" width="30" /></a>
-
 </p>
