@@ -8,12 +8,10 @@
 - 🌱 Actualmente estoy aprendiendo **React**
 <br><br>
 
-<p align="center">
 <h2> <strong>Skills</strong>  </h2>
+<p align="center">
 <!-- <h3> <strong> Programming Language </strong> </h3> -->
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40" />
-<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40" /><img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 
 <!-- <h3> <strong> Frontend Development </strong> </h3> -->
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -50,13 +48,13 @@
 <p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smavo&layout=compact&hide=html" alt="smavo"/> </p>
 <p> <img src="https://github-readme-stats.vercel.app/api?username=smavo&show_icons=true" alt="smavo" /> </p>
 
-<a href="https://twitter.com/smavo" target="blank">
+<a href="https://twitter.com/smavodev" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="smavo" height="30" width="30"/></a>
 
-<a href="https://linkedin.com/in/smavo" target="blank">
+<a href="https://linkedin.com/in/smavodev" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="smavo" height="30" width="30"/></a>
 
-<a href="https://instagram.com/smavo" target="blank">
+<a href="https://instagram.com/smavodev" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="smavo" height="30" width="30" /></a>
 
 </p>
