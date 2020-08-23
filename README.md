@@ -1,8 +1,7 @@
 <h1 align = "center"> Hola 👋, que tal, Mi nombre es Sergio Villagomez </h1>
 <h3 align = "center"> Soy un apasionado por la tecnología y la programación. Me gusta siempre aprender algo nuevo y compartirlo con la comunidad. </h3>
 
-<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=smavo" alt="smavo" /> </p>
-
+<!-- <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=smavo" alt="smavo" /> </p> -->
 
 - 🔭 Actualmente estoy trabajando en PNIPA (https://www.pnipa.gob.pe/)
 - 🌱 Actualmente estoy aprendiendo **React**
