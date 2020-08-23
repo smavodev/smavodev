@@ -8,8 +8,9 @@
 - 🌱 Actualmente estoy aprendiendo **React**
 <br><br>
 
-<p align="center">
+
 <h2> <strong>Skills</strong>  </h2>
+<p align="left">
 <!-- <h3> <strong> Programming Language </strong> </h3> -->
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40" />
@@ -45,7 +46,7 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alT="linux" width="40" height="40"/>
 </p>
 
-<p align="center">
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smavo&layout=compact&hide=html" alt="smavo"/>
 <img src="https://github-readme-stats.vercel.app/api?username=smavo&show_icons=true" alt="smavo" />
 </p>
