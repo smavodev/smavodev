@@ -1,8 +1,63 @@
-## Desarrollador web
-:bust_in_silhouette: **Sergio-vo**
-### Soy un apasionado por la tecnología y la programación. Me gusta siempre aprender algo nuevo y compartirlo con la comúnidad.
+<h1 align = "center"> Hola 👋, que tal, Mi nombre es Sergio Villagomez </h1>
+<h3 align = "center"> Soy un apasionado por la tecnología y la programación. Me gusta siempre aprender algo nuevo y compartirlo con la comunidad. </h3>
 
-* Twitter:  [@https://twitter.com/smavo24](https://twitter.com/smavo24)
-* Gitlab:   [https://gitlab.com/smavo]
-* LinkedIn: [@https://www.linkedin.com/in/smavo24/](https://www.linkedin.com/in/smavo24/)
-* Platzi:   [https://platzi.com/@sergio-vo/]
+<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=smavo" alt="smavo" /> </p>
+
+
+- 🔭 Actualmente estoy trabajando en PNIPA (https://www.pnipa.gob.pe/)
+- 🌱 Actualmente estoy aprendiendo **React**
+
+<p align = "left"> 
+
+<h2> <strong>Skills</strong>  </h2>
+<br>
+<h3> <strong> Programming Language </strong> </h3>
+<img src = "https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg "alt =" javascript "width =" 40 "height =" 40 "/> 
+<img src = "https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt = "python" width="40" height="40" />
+<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+<br><br>
+<h3> <strong> Frontend Development </strong> </h3>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt = "css3" width = "40" height="40" />
+<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt = "html5" width = "40" height = "40" /> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt = "angularjs" width="40" height="40" />
+<img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg "alt =" sass "width =" 40 "height="40"/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg "alt =" webpack "width="40" height="40"/> </p>
+<br><br>
+<h3> <strong> Backend  Development </strong> </h3>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg "alt =" nodejs "width =" 40 "height =" 40 "/> 
+<br><br>
+<h3> <strong> Database  </strong> </h3>
+<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg "alt =" mariadb "width ="40" height ="40"/ > 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width ="40" height = "40" / > 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg "alt =" mysql "width =" 40 "height =" 40 "/> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg " alt = "oracle" width="40" height="40" />
+<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width = "40" height = "40" />
+<br><br>
+<h3> <strong> DevOps </strong> </h3>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg "alt =" gcp "width = "40" height = "40" /> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height= "40"/> 
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg "alt =" jenkins "width = "40" height = "40" /> 
+<br><br>
+<h3> <strong> Software </strong> </h3>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg "alt =" figma "width =" 40 "height =" 40 "/> 
+<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt = "illustrator" width = "40" height = "40" /> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt = "git" width = "40" height = "40" /> 
+<br><br>
+<h3> <strong> S.O </strong> </h3>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt = "linux" width = " 40 "height =" 40 "/> 
+<br><br>
+<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smavo&layout=compact&hide=html" alt="smavo"/> </p>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=smavo&show_icons=true" alt = "smavo" /> </p>
+<br>
+<a href="https://twitter.com/smavo" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="smavo" height="30" width="30" /></a>
+
+<a href="https://linkedin.com/in/smavo" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="smavo" height="30" width="30" /></a>
+
+<a href="https://instagram.com/smavo" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="smavo" height="30" width="30" /></a>
+
+</p>
