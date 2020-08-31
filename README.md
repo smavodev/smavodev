@@ -2,12 +2,9 @@
 <h3 align = "center"> Soy un apasionado por la tecnología y la programación. Me gusta siempre aprender algo nuevo y compartirlo con la comunidad. </h3>
 
 <!-- <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=smavo" alt="smavo" /> </p> -->
-
-- 🔭 Actualmente estoy trabajando en PNIPA (https://www.pnipa.gob.pe/)
+- 🔭 Actualmente estoy trabajando en PNIPA: https://www.pnipa.gob.pe
 - 🌱 Actualmente estoy aprendiendo **React**
 <br><br>
-
-
 <h2> <strong>Skills</strong>  </h2>
 <p align="left">
 <!-- <h3> <strong> Programming Language </strong> </h3> -->
