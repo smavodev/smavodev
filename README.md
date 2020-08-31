@@ -43,7 +43,7 @@
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smavo&layout=compact" alt="smavo"/>
-<img src="https://github-readme-stats.vercel.app/api?username=smavo&show_icons=true" alt="smavo"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=smavo&show_icons=true" alt="smavo"/> -->
 </p>
 
 <p align="center">
