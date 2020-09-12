@@ -17,7 +17,10 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height = "40" />
 <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40" />
 <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+<img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="reactjs" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+<img src="https://devicon.dev/devicon.git/icons/less/less-plain-wordmark.svg" alt="less" width="40" height="40"/>
+<img src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
 
 <!-- <h3> <strong> Backend  Development </strong> </h3> -->
