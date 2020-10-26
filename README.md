@@ -11,7 +11,6 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40" />
 <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<br/>
 <!-- <h3> <strong> Frontend Development </strong> </h3> -->
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height = "40" />
@@ -23,7 +22,7 @@
 <img src="https://devicon.dev/devicon.git/icons/less/less-plain-wordmark.svg" alt="less" width="40" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/stylus/stylus-original.svg" alt="Stylus" width="40" height="40"/>
 <img src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
-<br/>
+
 <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
 
 <!-- <h3> <strong> Backend  Development </strong> </h3> -->
