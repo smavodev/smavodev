@@ -46,10 +46,11 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alT="linux" width="40" height="40"/>
 </p>
 
-<p align="left">
+ 
+<!-- <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smavo&layout=compact" alt="smavo"/>
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=smavo&show_icons=true" alt="smavo"/> -->
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=smavo&show_icons=true" alt="smavo"/>
+</p> -->
 
 <p align="center">
 <a href="https://twitter.com/smavodev" target="blank">
