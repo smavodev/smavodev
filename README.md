@@ -13,7 +13,7 @@
 <!-- <h3> <strong> Programming Language </strong> </h3> -->
 <!--<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>-->
 
-<h3> <strong> Frontend Development </strong> </h3>
+<!--<h3> <strong> Frontend Development </strong> </h3> -->
 <img src="https://smavodev.s3.amazonaws.com/iconos/html5-original.svg" width="40" height = "40" />
 <img src="https://smavodev.s3.amazonaws.com/iconos/css3-original.svg" alt="css3" width="40" height="40" />
 <img src="https://smavodev.s3.amazonaws.com/iconos/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -22,8 +22,6 @@
 <!--<img src="https://smavodev.s3.amazonaws.com/iconos/angularjs-original.svg" alt="angularjs" width="40" height="40" />-->
 
 <!--<img src="https://smavodev.s3.amazonaws.com/iconos/vuejs-original.svg" alt="vuejs" width="40" height="40"/>-->
-
-<br/>
 
 <!-- <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> -->
 
@@ -36,19 +34,19 @@
 <!--<img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>-->
 
 
- <h3> <strong> Backend  Development </strong> </h3>
+<!-- <h3> <strong> Backend  Development </strong> </h3> -->
 <img src="https://smavodev.s3.amazonaws.com/iconos/python-original.svg" alt="python" width="40" height="40" />
 <img src="https://smavodev.s3.amazonaws.com/iconos/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 
 <!--<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> -->
 
 
-<h3> <strong> Data Base  </strong> </h3>
+<!-- <h3> <strong> Data Base  </strong> </h3> -->
 <img src="https://smavodev.s3.amazonaws.com/iconos/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 <img src="https://smavodev.s3.amazonaws.com/iconos/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 <img src="https://smavodev.s3.amazonaws.com/iconos/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 
-<h3> <strong> CI/CD </strong> </h3>
+<!-- <h3> <strong> CI/CD </strong> </h3> -->
 <img src="https://smavodev.s3.amazonaws.com/iconos/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 
 <!--<img src="https://smavodev.s3.amazonaws.com/iconos/azure.svg" alt="azure" width="40" height="40"/> -->
