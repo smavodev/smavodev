@@ -35,7 +35,7 @@
 
 
 <!-- <h3> <strong> Backend  Development </strong> </h3> -->
-<img src="https://smavodev.s3.amazonaws.com/iconos/python-original.svg" alt="python" width="40" height="40" />
+<!-- <img src="https://smavodev.s3.amazonaws.com/iconos/python-original.svg" alt="python" width="40" height="40" /> -->
 <img src="https://smavodev.s3.amazonaws.com/iconos/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 
 <!--<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> -->
