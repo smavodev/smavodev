@@ -4,7 +4,7 @@
 <!-- <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=smavo" alt="smavo" /> </p> -->
 - 📝 Mi sitio Web: https://smavodev.com
 - 🔭 Actualmente estoy trabajando en SAETA: https://saeta.pe/
-- 🌱 Actualmente estoy aprendiendo **React Native, Ionic**
+- 🌱 Actualmente estoy aprendiendo **Python | Django **
 <br/>
 
 <h2> <strong>Skills</strong>  </h2>
