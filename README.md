@@ -3,7 +3,7 @@
 
 <!-- <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=smavo" alt="smavo" /> </p> -->
 - 📝 Mi sitio Web: https://smavodev.com
-- 🔭 Actualmente estoy trabajando en PNIPA: https://www.pnipa.gob.pe
+- 🔭 Actualmente estoy trabajando en SAETA: https://saeta.pe/
 - 🌱 Actualmente estoy aprendiendo **React Native, Ionic**
 <br/>
 
@@ -18,19 +18,19 @@
 <img src="https://smavodev.s3.amazonaws.com/iconos/css3-original.svg" alt="css3" width="40" height="40" />
 <img src="https://smavodev.s3.amazonaws.com/iconos/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://smavodev.s3.amazonaws.com/iconos/react-original.svg" alt="reactjs" width="40" height="40"/>
-
+<img src="https://smavodev.s3.amazonaws.com/iconos/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
+<img src="https://smavodev.s3.amazonaws.com/iconos/svelte-original.svg" alt="svelte" width="40" height="40"/>
+<img src="https://smavodev.s3.amazonaws.com/iconos/php-plain.svg" alt="php" width="40" height="40"/>
+<img src="https://smavodev.s3.amazonaws.com/iconos/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" />
+<img src="https://smavodev.s3.amazonaws.com/iconos/codeigniter-plain-wordmark.svg" alt="codeigniter" width="40" height="40" />
+  
 <!--<img src="https://smavodev.s3.amazonaws.com/iconos/angularjs-original.svg" alt="angularjs" width="40" height="40" />-->
-
-<!--<img src="https://smavodev.s3.amazonaws.com/iconos/vuejs-original.svg" alt="vuejs" width="40" height="40"/>-->
-
+  
 <!-- <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> -->
-
 <!-- <img src="https://devicon.dev/devicon.git/icons/less/less-plain-wordmark.svg" alt="less" width="40" height="40"/> -->
-
 <!-- <img src="https://devicon.dev/devicon.git/icons/stylus/stylus-original.svg" alt="Stylus" width="40" height="40"/> -->
 
 <!-- <img src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> -->
-
 <!--<img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>-->
 
 
