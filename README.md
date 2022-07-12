@@ -3,7 +3,7 @@
 
 <!-- <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=smavo" alt="smavo" /> </p> -->
 - 📝 Mi sitio Web: https://smavodev.com
-- 🔭 Actualmente estoy trabajando en Altimea: https://www.altimea.com/
+- 🔭 Actualmente estoy trabajando en NTT DATA : https://es.nttdata.com/
 - 🌱 Actualmente estoy Preparandome como: **QA Automation**
 <br/>
 
