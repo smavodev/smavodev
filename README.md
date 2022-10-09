@@ -20,15 +20,15 @@
 <img src="https://smavodev.com/smavodev/iconos/cucumber.svg" alt="codeigniter" width="40" height="40" />
 <img src="https://smavodev.com/smavodev/iconos/postman-original.svg" alt="codeigniter" width="40" height="40" />
 
-<img src="https://smavodev.com/smavodev/iconos/html5-original.svg" width="40" height = "40" />
-<img src="https://smavodev.com/smavodev/iconos/css3-original.svg" alt="css3" width="40" height="40" />
+<!-- <img src="https://smavodev.com/smavodev/iconos/html5-original.svg" width="40" height = "40" />
+<img src="https://smavodev.com/smavodev/iconos/css3-original.svg" alt="css3" width="40" height="40" /> -->
 <img src="https://smavodev.com/smavodev/iconos/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://smavodev.com/smavodev/iconos/react-original.svg" alt="reactjs" width="40" height="40"/>
-<img src="https://smavodev.com/smavodev/iconos/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
+<!-- <img src="https://smavodev.com/smavodev/iconos/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
 <img src="https://smavodev.com/smavodev/iconos/svelte-original.svg" alt="svelte" width="40" height="40"/>
 <img src="https://smavodev.com/smavodev/iconos/php-plain.svg" alt="php" width="40" height="40"/>
 <img src="https://smavodev.com/smavodev/iconos/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" />
-<img src="https://smavodev.com/smavodev/iconos/codeigniter-plain-wordmark.svg" alt="codeigniter" width="40" height="40" />
+<img src="https://smavodev.com/smavodev/iconos/codeigniter-plain-wordmark.svg" alt="codeigniter" width="40" height="40" /> -->
   
 <!--<img src="https://smavodev.s3.amazonaws.com/iconos/angularjs-original.svg" alt="angularjs" width="40" height="40" />-->
   
