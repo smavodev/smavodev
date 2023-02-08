@@ -5,6 +5,7 @@
 - 📝 Mi sitio Web: https://smavodev.com
 - 🔭 Actualmente estoy trabajando en NTT DATA : https://es.nttdata.com/
 - 🌱 Actualmente estoy Preparandome como: **QA Automation**
+- 📝 Mi Blog sobre testing: https://blog.smavodev.com/
 <br/>
 
 <h2> <strong>Skills</strong>  </h2>
