@@ -23,8 +23,10 @@
 
 <!-- <img src="https://smavodev.com/smavodev/iconos/html5-original.svg" width="40" height = "40" />
 <img src="https://smavodev.com/smavodev/iconos/css3-original.svg" alt="css3" width="40" height="40" /> -->
+<img src="https://smavodev.com/smavodev/iconos/python.svg" alt="python" width="40" height="40"/>
+<!--<img src="https://smavodev.com/smavodev/iconos/django.svg" alt="django" width="40" height="40"/>-->
 <img src="https://smavodev.com/smavodev/iconos/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://smavodev.com/smavodev/iconos/react-original.svg" alt="reactjs" width="40" height="40"/>
+<!--<img src="https://smavodev.com/smavodev/iconos/react-original.svg" alt="reactjs" width="40" height="40"/>-->
 <!-- <img src="https://smavodev.com/smavodev/iconos/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
 <img src="https://smavodev.com/smavodev/iconos/svelte-original.svg" alt="svelte" width="40" height="40"/>
 <img src="https://smavodev.com/smavodev/iconos/php-plain.svg" alt="php" width="40" height="40"/>
