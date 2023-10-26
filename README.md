@@ -24,6 +24,7 @@
 <!-- <img src="https://smavodev.com/smavodev/iconos/html5-original.svg" width="40" height = "40" />
 <img src="https://smavodev.com/smavodev/iconos/css3-original.svg" alt="css3" width="40" height="40" /> -->
 <img src="https://smavodev.com/smavodev/iconos/python.svg" alt="python" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="40" height="40"/>
 <img src="https://smavodev.com/smavodev/iconos/django.svg" alt="django" width="40" height="40"/>
 <img src="https://smavodev.com/smavodev/iconos/php-plain.svg" alt="php" width="40" height="40"/>
 <img src="https://smavodev.com/smavodev/iconos/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" />
@@ -82,11 +83,15 @@
 
 <p align="center">
 <a href="https://twitter.com/smavodev" target="blank">
-<img align="center" src="https://smavodev.com/smavodev/iconos/twitter-original.svg" alt="Twitter Image" height="30" width="30" /></a>
+<img align="center" src="https://smavodev.com/smavodev/iconos/twitter-original.svg" alt="Twitter Image" height="40" width="40" /> 
+<!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter Image" height="30" width="30" />-->
+</a>
 
 <a href="https://linkedin.com/in/smavodev" target="blank">
-<img align="center" src="https://smavodev.com/smavodev/iconos/linkedin-original.svg" alt="Linkedin Image" height="30" width="30"/></a>
+<img align="center" src="https://smavodev.com/smavodev/iconos/linkedin-original.svg" alt="Linkedin Image" height="40" width="40"/> 
+<!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin Image" height="30" width="30"/>-->
+</a>
 
 <a href="https://instagram.com/smavodev" target="blank">
-<img align="center" src="https://smavodev.com/smavodev/iconos/instagram-original.svg" alt="Instagram Image" height="30" width="30" /></a>
+<img align="center" src="https://smavodev.com/smavodev/iconos/instagram-original.svg" alt="Instagram Image" height="50" width="50" /></a>
 </p>
