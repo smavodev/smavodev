@@ -2,10 +2,10 @@
 <h3 align = "center"> Soy un apasionado por la tecnología y la programación. Me gusta siempre aprender algo nuevo y compartirlo con la comunidad. </h3>
 
 <!-- <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=smavo" alt="smavo" /> </p> -->
-- 📝 Mi sitio Web: [https://smavodev.com](https://blog.smavodev.com/)
-- 🔭 Actualmente estoy trabajando en NTT DATA : [https://es.nttdata.com/](https://blog.smavodev.com/)
+<!-- - 📝 Mi sitio Web: **[https://smavodev.com](https://blog.smavodev.com/)** -->
+- 🔭 Actualmente estoy trabajando en NTT DATA : **[https://es.nttdata.com/](https://blog.smavodev.com/)**
 - 🌱 Actualmente estoy Preparandome como: **QA Automation**
-- 📝 Mi Blog sobre testing: [https://blog.smavodev.com/](https://blog.smavodev.com/)
+- 📝 Mi Blog sobre testing: **[https://blog.smavodev.com/](https://blog.smavodev.com/)**
 <br/>
 
 <h2> <strong>Skills</strong>  </h2>
