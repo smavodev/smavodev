@@ -27,10 +27,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="40" height="40"/>
 <img src="https://smavodev.com/smavodev/iconos/django.svg" alt="django" width="40" height="40"/>
 <img src="https://smavodev.com/smavodev/iconos/php-plain.svg" alt="php" width="40" height="40"/>
-<img src="https://smavodev.com/smavodev/iconos/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" />
+<!--<img src="https://smavodev.com/smavodev/iconos/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" />-->
 
 <img src="https://smavodev.com/smavodev/iconos/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://smavodev.com/smavodev/iconos/react-original.svg" alt="reactjs" width="40" height="40"/>
+<!--<img src="https://smavodev.com/smavodev/iconos/react-original.svg" alt="reactjs" width="40" height="40"/>-->
 
 <!-- <img src="https://smavodev.com/smavodev/iconos/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
 <img src="https://smavodev.com/smavodev/iconos/svelte-original.svg" alt="svelte" width="40" height="40"/>
