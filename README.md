@@ -25,8 +25,8 @@
 <!-- <img src="https://smavodev.com/smavodev/iconos/html5-original.svg" width="40" height = "40" />
 <img src="https://smavodev.com/smavodev/iconos/css3-original.svg" alt="css3" width="40" height="40" /> -->
 <img src="https://smavodev.com/smavodev/iconos/python.svg" alt="python" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="40" height="40"/>
-<img src="https://smavodev.com/smavodev/iconos/django.svg" alt="django" width="40" height="40"/>
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="40" height="40"/> -->
+<!-- <img src="https://smavodev.com/smavodev/iconos/django.svg" alt="django" width="40" height="40"/> -->
 <img src="https://smavodev.com/smavodev/iconos/php-plain.svg" alt="php" width="40" height="40"/>
 <!--<img src="https://smavodev.com/smavodev/iconos/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" />-->
 
