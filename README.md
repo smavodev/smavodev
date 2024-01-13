@@ -3,8 +3,8 @@
 
 <!-- <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=smavo" alt="smavo" /> </p> -->
 <!-- - 📝 Mi sitio Web: **[https://smavodev.com](https://blog.smavodev.com/)** -->
-- 🔭 Actualmente estoy trabajando en NTT DATA : **[https://es.nttdata.com/](https://blog.smavodev.com/)**
-- 🌱 Actualmente estoy Preparandome como: **QA Automation**
+- 🔭 Actualmente estoy trabajando en **Evolta** : **[EVOLTA CRM](https://www.evoltacrm.com/))** 
+- 🌱 Actualmente estoy trabajando como: **QA Automation Engineer**
 - 📝 Mi Blog sobre testing: **[https://blog.smavodev.com/](https://blog.smavodev.com/)**
 <br/>
 
@@ -17,7 +17,8 @@
 <!--<h3> <strong> Frontend Development </strong> </h3> -->
 <img src="https://smavodev.com/smavodev/iconos/cypress-original.svg" alt="Cypress Image" width="40" height="40" />
 <img src="https://smavodev.com/smavodev/iconos/selenium-original.svg" alt="codeigniter" width="40" height="40" />
-<img src="https://smavodev.com/smavodev/iconos/playwright-original.svg" alt="codeigniter" width="40" height="40" />
+<img src="https://smavodev.com/smavodev/iconos/playwright-original.svg" alt="playwright" width="40" height="40" />
+<img src="https://www.svgrepo.com/show/374124/testcafe.svg" alt="tescafe" width="40" height="40" />
 <img src="https://smavodev.com/smavodev/iconos/cucumber.svg" alt="codeigniter" width="40" height="40" />
 <img src="https://smavodev.com/smavodev/iconos/postman-original.svg" alt="codeigniter" width="40" height="40" />
 
@@ -62,7 +63,8 @@
 
 <!-- <h3> <strong> CI/CD </strong> </h3> -->
 <img src="https://smavodev.com/smavodev/iconos/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-
+<img src="https://github.com/smavo/smavo/assets/43839357/2a3e628f-cf6a-4666-803c-b38f3cb52a7b" alt="jmeter" width="90" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/K6-logo.svg" alt="k6" width="40" height="40"/>
 <!--<img src="https://smavodev.s3.amazonaws.com/iconos/azure.svg" alt="azure" width="40" height="40"/> -->
 
 <!--<img src="https://smavodev.s3.amazonaws.com/iconos/google-cloud+.svg" alt="gcp" width="40" height="40"/> -->
