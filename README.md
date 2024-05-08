@@ -15,24 +15,30 @@
 <!--<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>-->
 
 <!--<h3> <strong> Frontend Development </strong> </h3> -->
-<img src="https://smavodev.com/smavodev/iconos/cypress-original.svg" alt="Cypress Image" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" alt="Cypress Image" width="40" height="40" />
 <img src="https://smavodev.com/smavodev/iconos/selenium-original.svg" alt="codeigniter" width="40" height="40" />
-<img src="https://smavodev.com/smavodev/iconos/playwright-original.svg" alt="playwright" width="40" height="40" />
-<img src="https://www.svgrepo.com/show/374124/testcafe.svg" alt="tescafe" width="40" height="40" />
-<img src="https://smavodev.com/smavodev/iconos/cucumber.svg" alt="codeigniter" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="playwright" width="40" height="40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
+<img src="https://smavodev.com/smavodev/iconos/python.svg" alt="python" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" alt="pytest" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40" />
 <img src="https://smavodev.com/smavodev/iconos/postman-original.svg" alt="codeigniter" width="40" height="40" />
 
+<!-- <img src="https://www.svgrepo.com/show/374124/testcafe.svg" alt="tescafe" width="40" height="40" /> -->
+<!-- <img src="https://smavodev.com/smavodev/iconos/cucumber.svg" alt="codeigniter" width="40" height="40" />-->
 <!-- <img src="https://smavodev.com/smavodev/iconos/html5-original.svg" width="40" height = "40" />
 <img src="https://smavodev.com/smavodev/iconos/css3-original.svg" alt="css3" width="40" height="40" /> -->
-<img src="https://smavodev.com/smavodev/iconos/python.svg" alt="python" width="40" height="40"/>
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="40" height="40"/> -->
-<!-- <img src="https://smavodev.com/smavodev/iconos/django.svg" alt="django" width="40" height="40"/> -->
-<img src="https://smavodev.com/smavodev/iconos/php-plain.svg" alt="php" width="40" height="40"/>
-<!--<img src="https://smavodev.com/smavodev/iconos/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" />-->
 
-<img src="https://smavodev.com/smavodev/iconos/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <!--<img src="https://smavodev.com/smavodev/iconos/react-original.svg" alt="reactjs" width="40" height="40"/>-->
-
 <!-- <img src="https://smavodev.com/smavodev/iconos/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
 <img src="https://smavodev.com/smavodev/iconos/svelte-original.svg" alt="svelte" width="40" height="40"/>
 <img src="https://smavodev.com/smavodev/iconos/php-plain.svg" alt="php" width="40" height="40"/>
@@ -40,7 +46,7 @@
 <img src="https://smavodev.com/smavodev/iconos/codeigniter-plain-wordmark.svg" alt="codeigniter" width="40" height="40" /> -->
   
 <!--<img src="https://smavodev.s3.amazonaws.com/iconos/angularjs-original.svg" alt="angularjs" width="40" height="40" />-->
-  
+
 <!-- <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> -->
 <!-- <img src="https://devicon.dev/devicon.git/icons/less/less-plain-wordmark.svg" alt="less" width="40" height="40"/> -->
 <!-- <img src="https://devicon.dev/devicon.git/icons/stylus/stylus-original.svg" alt="Stylus" width="40" height="40"/> -->
@@ -51,7 +57,7 @@
 
 <!-- <h3> <strong> Backend  Development </strong> </h3> -->
 <!-- <img src="https://smavodev.s3.amazonaws.com/iconos/python-original.svg" alt="python" width="40" height="40" /> -->
-<img src="https://smavodev.com/smavodev/iconos/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+
 
 <!--<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> -->
 
@@ -63,8 +69,9 @@
 
 <!-- <h3> <strong> CI/CD </strong> </h3> -->
 <img src="https://smavodev.com/smavodev/iconos/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-<img src="https://github.com/smavo/smavo/assets/43839357/2a3e628f-cf6a-4666-803c-b38f3cb52a7b" alt="jmeter" width="90" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/K6-logo.svg" alt="k6" width="40" height="40"/>
+
+<!-- <img src="https://github.com/smavo/smavo/assets/43839357/2a3e628f-cf6a-4666-803c-b38f3cb52a7b" alt="jmeter" width="90" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/K6-logo.svg" alt="k6" width="40" height="40"/> -->
 <!--<img src="https://smavodev.s3.amazonaws.com/iconos/azure.svg" alt="azure" width="40" height="40"/> -->
 
 <!--<img src="https://smavodev.s3.amazonaws.com/iconos/google-cloud+.svg" alt="gcp" width="40" height="40"/> -->
