@@ -3,7 +3,7 @@
 
 <!-- <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=smavo" alt="smavo" /> </p> -->
 <!-- - 📝 Mi sitio Web: **[https://smavodev.com](https://blog.smavodev.com/)** -->
-- 🔭 Actualmente estoy trabajando en **Evolta** : **[EVOLTA CRM](https://www.evoltacrm.com/))** 
+- 🔭 Actualmente estoy trabajando en **Evolta** : **[OKA](https://www.oka.com.pe/)** 
 - 🌱 Actualmente estoy trabajando como: **QA Automation Engineer**
 - 📝 Mi Blog sobre testing: **[https://blog.smavodev.com/](https://blog.smavodev.com/)**
 <br/>
@@ -23,13 +23,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> -->
 <img src="https://smavodev.com/smavodev/iconos/python.svg" alt="python" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" alt="pytest" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/> 
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40" /> -->
 <img src="https://smavodev.com/smavodev/iconos/postman-original.svg" alt="codeigniter" width="40" height="40" />
 
 <!-- <img src="https://www.svgrepo.com/show/374124/testcafe.svg" alt="tescafe" width="40" height="40" /> -->
