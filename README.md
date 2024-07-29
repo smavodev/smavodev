@@ -15,13 +15,12 @@
 <!--<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>-->
 
 <!--<h3> <strong> Frontend Development </strong> </h3> -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="playwright" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" alt="Cypress Image" width="40" height="40" />
 <img src="https://smavodev.com/smavodev/iconos/selenium-original.svg" alt="codeigniter" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="playwright" width="40" height="40" />
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> -->
@@ -68,7 +67,7 @@
 <img src="https://smavodev.com/smavodev/iconos/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 
 <!-- <h3> <strong> CI/CD </strong> </h3> -->
-<img src="https://smavodev.com/smavodev/iconos/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 
 <!-- <img src="https://github.com/smavo/smavo/assets/43839357/2a3e628f-cf6a-4666-803c-b38f3cb52a7b" alt="jmeter" width="90" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/K6-logo.svg" alt="k6" width="40" height="40"/> -->
