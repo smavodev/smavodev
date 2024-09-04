@@ -17,19 +17,19 @@
 <!--<h3> <strong> Frontend Development </strong> </h3> -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="playwright" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" alt="Cypress Image" width="40" height="40" />
-<img src="https://smavodev.com/smavodev/iconos/selenium-original.svg" alt="codeigniter" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="nestjs" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> -->
-<img src="https://smavodev.com/smavodev/iconos/python.svg" alt="python" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" alt="pytest" width="40" height="40"/>
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40" /> -->
-<img src="https://smavodev.com/smavodev/iconos/postman-original.svg" alt="codeigniter" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="40" height="40" />
 
 <!-- <img src="https://www.svgrepo.com/show/374124/testcafe.svg" alt="tescafe" width="40" height="40" /> -->
 <!-- <img src="https://smavodev.com/smavodev/iconos/cucumber.svg" alt="codeigniter" width="40" height="40" />-->
@@ -62,9 +62,9 @@
 
 
 <!-- <h3> <strong> Data Base  </strong> </h3> -->
-<img src="https://smavodev.com/smavodev/iconos/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://smavodev.com/smavodev/iconos/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://smavodev.com/smavodev/iconos/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+<!-- <img src="https://smavodev.com/smavodev/iconos/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
 
 <!-- <h3> <strong> CI/CD </strong> </h3> -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -79,8 +79,8 @@
 <!--<h3> <strong> Software </strong> </h3>-->
 <!--<h3> <strong> S.O </strong> </h3> -->
 
-<img src="https://smavodev.com/smavodev/iconos/linux-original.svg" alT="linux" width="40" height="40"/>
-<img src="https://smavodev.com/smavodev/iconos/git-original.svg" alt = "git" width = "40" height = "40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alT="linux" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" alt = "git" width = "40" height = "40" />
 
 </p>
 
@@ -91,15 +91,15 @@
 
 <p align="center">
 <a href="https://twitter.com/smavodev" target="blank">
-<img align="center" src="https://smavodev.com/smavodev/iconos/twitter-original.svg" alt="Twitter Image" height="40" width="40" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="Twitter Image" height="40" width="40" /> 
 <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter Image" height="30" width="30" />-->
 </a>
 
 <a href="https://linkedin.com/in/smavodev" target="blank">
-<img align="center" src="https://smavodev.com/smavodev/iconos/linkedin-original.svg" alt="Linkedin Image" height="40" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Linkedin Image" height="40" width="40"/> 
 <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkedin Image" height="30" width="30"/>-->
 </a>
 
-<a href="https://instagram.com/smavodev" target="blank">
-<img align="center" src="https://smavodev.com/smavodev/iconos/instagram-original.svg" alt="Instagram Image" height="50" width="50" /></a>
-</p>
+<!-- <a href="https://instagram.com/smavodev" target="blank">
+<img align="center" src="https://smavodev.com/smavodev/iconos/instagram-original.svg" alt="Instagram Image" height="50" width="50" /></a> -->
+</p> 
