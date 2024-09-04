@@ -5,7 +5,7 @@
 <!-- - 📝 Mi sitio Web: **[https://smavodev.com](https://blog.smavodev.com/)** -->
 - 🔭 Actualmente estoy trabajando en **Evolta** : **[OKA](https://www.oka.com.pe/)** 
 - 🌱 Actualmente estoy trabajando como: **QA Automation Engineer**
-- 📝 Mi Blog sobre testing: **[https://blog.smavodev.com/](https://blog.smavodev.com/)**
+- 📝 Mi web personal: **[https://smavodev.com/](https://smavodev.com/)**
 <br/>
 
 <h2> <strong>Skills</strong>  </h2>
