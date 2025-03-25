@@ -3,7 +3,7 @@
 
 <!-- <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=smavo" alt="smavo" /> </p> -->
 <!-- - 📝 Mi sitio Web: **[https://smavodev.com](https://blog.smavodev.com/)** -->
-- 🔭 Actualmente estoy trabajando en **Evolta** : **[NTT DATA](https://pe.nttdata.com/)** 
+- 🔭 Actualmente estoy trabajando en **NTT DATA** : **[NTT DATA](https://pe.nttdata.com/)** para el cliente BCP.
 - 🌱 Actualmente estoy trabajando como: **QA Automation Engineer**
 - 📝 Mi web personal: **[https://smavodev.com/](https://smavodev.com/)**
 <br/>
